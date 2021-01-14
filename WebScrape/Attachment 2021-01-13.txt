@@ -1,0 +1,32 @@
+
+All the big headers are:
+Beautiful Soup: Build a Web Scraper With Python
+
+
+Medium headers are:
+What Is Web Scraping?
+Scraping the Monster Job Site
+Part 1: Inspect Your Data Source
+Part 2: Scrape HTML Content From a Page
+Part 3: Parse HTML Code With Beautiful Soup
+Building the Job Search Tool
+Additional Practice
+Conclusion
+Master Real-World Python Skills With Unlimited Access to Real Python
+
+
+Smallest headers are:
+Why Scrape the Web?
+Challenges of Web Scraping
+APIs: An Alternative to Web Scraping
+Explore the Website
+Decipher the Information in URLs
+Inspect the Site Using Developer Tools
+Static Websites
+Hidden Websites
+Dynamic Websites
+Find Elements by ID
+Find Elements by HTML Class Name
+Extract Text From HTML Elements
+Find Elements by Class Name and Text Content
+Extract Attributes From HTML Elements
